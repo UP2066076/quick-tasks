@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# build directories
+build/
+dist/
+
+# Optional: IDE settings
+.vscode/
+.idea/
